@@ -22,3 +22,5 @@ This is a course in data science with Python for GS
 2. Zendaya
 3. Angeline Jolie
 4. Adam Sandler
+5. Marlon Brandon
+6. Federico Fellini 
